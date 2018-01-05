@@ -1,2 +1,2 @@
-# simple-gaussian-process-python
+# Simple Gaussian Processes
 Simple examples for Gaussian Processes in Python.
